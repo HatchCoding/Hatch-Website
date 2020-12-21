@@ -1,0 +1,44 @@
+html, body {
+  margin: 0 2em 0  2em;
+  padding: 0;
+  background-color: #ddb0ff;
+  text-align: center;
+  
+}
+canvas {
+  display: inline-block;
+}
+
+h1{
+  font-family: "Roboto", "Lato", "Lucida Grande", "Lucida Sans Unicode"; 
+  text-align:center; 
+  padding: 1%; ; 
+  background:#571CAe;
+  color: #fff; 
+  margin-left: 2em ;
+  margin-right: 2em ;
+  border-radius: 10px;
+}
+
+p {
+    text-align:center; 
+    font-family:"nunito", "sans serif";
+}
+
+a {
+  text-align: left; 
+  color: #571CAE;
+  font-family:"nunito", "sans serif";
+}
+
+li{
+   display: inline;
+   border: 2px solid #571CAE;
+   background: white; 
+   margin: 6px; 
+   padding: 6px; 
+   border-radius: 5px;
+}
+li:hover{
+  background: #E6D9F9; 
+}
